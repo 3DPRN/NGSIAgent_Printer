@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "FuzGSCPfjIZMIC3BdvLsuX3Y0GODjCF7kky+qeGQTfkqxu2yUV1mysrtCZ0x9F25DNM+HIcmCuHKJc1Gw2q/ag==",
+  "success": true,
+  "projectFilePath": "e:\\SRC\\VStudio\\3DPRN-TOOLS\\3DPRN_Fiware\\3DPRN_Fiware\\3DPRN_Fiware.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Stefano\\.nuget\\packages\\fiware.orion.client\\1.0.6\\fiware.orion.client.1.0.6.nupkg.sha512",
+    "C:\\Users\\Stefano\\.nuget\\packages\\newtonsoft.json\\6.0.8\\newtonsoft.json.6.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
